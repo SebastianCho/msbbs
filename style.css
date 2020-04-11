@@ -1,0 +1,17 @@
+A:link					{ text-decoration:none;color:darkred;font-family:tahoma,verdana;font-size:8pt }
+A:active				{ text-decoration:none;color:darkred;font-family:tahoma,verdana;font-size:8pt }
+A:visited				{ text-decoration:none;color:darkred;font-family:tahoma,verdana;font-size:8pt }
+A:hover					{ text-decoration:underline;color:red;font-family:tahoma,verdana;font-size:8pt }
+
+body,table,td,br		{ font-family:tahoma,verdana;font-size:11px;color:333333 }
+
+.input					{ border:solid 1 black;height:21px;padding:2;background-color:white;font-family:tahoma,verdana;font-size:8pt }
+.input_nor				{ font-size:7pt;font-family:tahoma,verdana;padding:4;border:solid 1 gray;background-color:white;color:333333 }
+
+.logininput				{ font-size:7pt;font-family:tahoma,verdana;height:17px;border:solid 1 gray;background-color:white;color:333333 }
+.confirm				{ font-size:7pt;font-family:tahoma,verdana;height:17px;border:solid 1 gray;background-color:eeeeee;color:333333 }
+
+.join_confirm_ok		{ background-color:#777777;width:80;height:30;border:solid 1 #777777;font-family:tahoma,verdana;font-size:8pt;color:white }
+.join_confirm_cc		{ background-color:#EEEEEE;width:80;height:30;border:solid 1 #AAAAAA;font-family:tahoma,verdana;font-size:8pt;color:black }
+
+.ab_btn					{ border:solid 1 black;height:25px;background-color:white;font-family:tahoma,verdana;font-size:8pt }
